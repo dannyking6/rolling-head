@@ -1,0 +1,1 @@
+{"package": "com.qile.lg.ywqs.kyx.nearme.gamecenter", "name": "\u836f\u4e38\u67aa\u624b", "versionName": "1", "versionCode": 1, "minPlatformVersion": 1040, "icon": "./ywqs.jpg", "orientation": "portrait", "type": "game", "config": {"logLevel": "off"}, "subpackages": [{"name": "UnityToLaya", "root": "LayaScene/"}]}

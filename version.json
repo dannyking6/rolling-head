@@ -1,0 +1,7 @@
+{
+  "json": [
+    { "type": "json", "path": "optimize/consolidated.2405132225.0.json", "priority": 0, "fileNum": 211 },
+    { "type": "plfb", "path": "optimize/consolidated.2405132225.1.plfb.json", "priority": 0, "fileNum": 127 },
+    { "type": "plfb", "path": "optimize/consolidated.2405132225.2.plfb.json", "priority": 0, "fileNum": 53 }
+  ]
+}
